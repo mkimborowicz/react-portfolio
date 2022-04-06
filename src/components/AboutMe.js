@@ -3,7 +3,7 @@ import "../styles/AboutMe.css";
 
 function AboutMe() {
   return (
-    <section>
+    <section id="about-me">
       <h2>About Me</h2>
       <p>I am currently enrolled in University of Washington full stack web
         development program to be completed May of 2022. I was born and

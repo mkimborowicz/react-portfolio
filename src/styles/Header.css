@@ -4,22 +4,30 @@
     margin: 0px;
 }
 
-section {
-    height: 400px;
-    background: pink;
-}
-
 header {
     height: 100vh;
-    background: rgb(28, 31, 36);
-    color: white;
+    background: #001514;
+    color: #F7FFF7
+}
+
+h1 {
+    font-size: 40px;
+    padding-bottom: 8px;
+}
+
+p {
+    padding-bottom: 8px;
+}
+
+.socials {
+    margin-right: 14px;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
-    padding-top: 8px;
-    padding-left: 8px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 ul {
@@ -42,7 +50,32 @@ a:hover {
     margin: 40vh 0px 0px 70px;
 }
 
+section {
+    height: 400px;
+    background: #CED0CE;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #001514;
+}
+
+h2 {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.project-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.project-card {
+    width: 200px;
+    height: 300px;
+    border: black 1px solid;
+    margin-right: 20px;
+}
+
 footer {
-    height: 200px;
+    height: 150px;
     background: rgb(28, 31, 36);
 }
