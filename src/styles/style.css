@@ -6,7 +6,7 @@
 
 header {
     height: 100vh;
-    background: black;
+    background: rgb(28, 31, 36);
     color: #F7FFF7
 }
 
@@ -27,7 +27,7 @@ nav {
     display: flex;
     justify-content: end;
     padding-top: 10px;
-    padding-left: 10px;
+    padding-right: 10px;
 }
 
 ul {
@@ -48,6 +48,7 @@ header a {
 
 header a:hover {
     color: #337357;
+    font-weight: bold;
 }
 
 .header-text {
@@ -74,12 +75,17 @@ section {
 #projects a {
     margin: 10px;
     color: #337357;
+    font-size: 15px;
+}
+
+#projects a:hover {
+    font-weight: bold;
 }
 
 h2 {
     font-size: 30px;
     padding-bottom: 20px;
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 .project-container {
@@ -111,15 +117,44 @@ hr {
     margin: 10px;
 }
 
+input {
+    width: 50%;
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+textarea {
+    width: 50%;
+}
+
 button {
     background: #337357;
     border-radius: 5px;
-    border: none;
+    border: 1px #337357 solid;
     padding: 8px;
+    color: white;
+    margin-right: 10px;
+}
+
+button:hover {
+    background: black;
+    border: 1px black solid;
 }
 
 footer {
     height: 100px;
     background: rgb(28, 31, 36);
     color: white;
+    text-align: right;
 }
+
+footer p {
+    font-size: 12px;
+    padding: 15px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
