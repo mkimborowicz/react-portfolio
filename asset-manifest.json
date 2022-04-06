@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.0a739b3f.css",
+    "main.js": "/react-portfolio/static/js/main.2128c3fe.js",
+    "static/media/deja-brew.png": "/react-portfolio/static/media/deja-brew.c84aff8b452ab38b478b.png",
+    "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.aac4b0b408f1b594a684.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.ba4ea2a53c138ebb9d4e.png",
+    "static/media/joinin.png": "/react-portfolio/static/media/joinin.8f4029321b6bcff02078.png",
+    "static/media/planner.png": "/react-portfolio/static/media/planner.6b28428cf2599dc11773.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.a1b69bed4edbf6b5d002.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.0a739b3f.css.map": "/react-portfolio/static/css/main.0a739b3f.css.map",
+    "main.2128c3fe.js.map": "/react-portfolio/static/js/main.2128c3fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a739b3f.css",
+    "static/js/main.2128c3fe.js"
+  ]
+}
