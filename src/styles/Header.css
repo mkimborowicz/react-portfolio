@@ -1,0 +1,48 @@
+
+* {
+    font-family: 'Nobile', sans-serif;
+    margin: 0px;
+}
+
+section {
+    height: 400px;
+    background: pink;
+}
+
+header {
+    height: 100vh;
+    background: rgb(28, 31, 36);
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 8px;
+    padding-left: 8px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    width: 300px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: pink;
+}
+
+.header-text {
+    margin: 40vh 0px 0px 70px;
+}
+
+footer {
+    height: 200px;
+    background: rgb(28, 31, 36);
+}
