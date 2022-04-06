@@ -1,11 +1,10 @@
 import React from "react";
-import "../styles/Header.css";
+import "../styles/style.css";
 
 function Header() {
   return (
     <header>
       <nav>
-        <div>LOGO</div>
         <ul>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#about-me">About Me</a></li>

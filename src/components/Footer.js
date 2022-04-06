@@ -1,11 +1,12 @@
 import React from 'react';
-import '../styles/Footer.css';
+import "../styles/style.css";
 
 
 function Footer() {
   return(
 <footer>
- <p>Footer here</p>
+<p>&copy;Copyright 2022 Maddy Kimborowicz</p>
+<button>Download Resume</button>
  </footer>
   );
 }

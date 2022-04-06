@@ -1,20 +1,13 @@
 import React from "react";
-import "../styles/AboutMe.css";
+import "../styles/style.css";
 
 function AboutMe() {
   return (
     <section id="about-me">
       <h2>About Me</h2>
-      <p>I am currently enrolled in University of Washington full stack web
-        development program to be completed May of 2022. I was born and
-        raised in Seattle, Washington and being surrounded by many tech
-        companies and opportunities sparked an interest in learning to code!
-        In my journey so far I have had hands on experience learning HTML,
-        CSS, Javascript, API's, and Node.
-        Outside of
-        development, my other interests include real estate/investing,
-        travelling, and interior design.
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In hendrerit gravida rutrum quisque non tellus orci ac. In ornare quam viverra orci sagittis eu volutpat. Aliquam eleifend mi in nulla. Pharetra diam sit amet nisl suscipit adipiscing bibendum. Interdum varius sit amet mattis. Pharetra diam sit amet nisl suscipit adipiscing. Lacus vel facilisis volutpat est velit egestas dui id ornare.
         </p>
+        <p>Skills:</p>
     </section>
   );
 }
