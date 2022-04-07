@@ -56,12 +56,13 @@ header a:hover {
 }
 
 section {
-    height: 120%;
+    height: 85vh;
     background: white;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 20px;
     color: #001514;
+    text-align: center ;
     
 }
 
@@ -119,21 +120,25 @@ hr {
 }
 
 input {
-    width: 50%;
-    height: 20px;
-    margin-bottom: 5px;
+    width: 80%;
+    height: 30px;
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 
 textarea {
-    width: 50%;
+    width: 80%;
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 
 button {
     background: #337357;
     border-radius: 5px;
     border: 1px #337357 solid;
-    padding: 8px;
+    padding: 10px;
     color: white;
+    width: 200px;
 }
 
 footer button {
@@ -163,10 +168,6 @@ button a {
 }
 
 @media screen and (max-width: 600px) {
-
-    section {
-        text-align: center;
-    }
 
     .header-text {
         margin: 40vh 0px 0px 20px;
