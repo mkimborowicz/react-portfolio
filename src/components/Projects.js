@@ -23,28 +23,28 @@ function Projects() {
         </div>
         <div class="project-card">
           <img class="image" src={require("../Assets/weather.png")} />
-          <h3>Project 3</h3>
+          <h3>Weather Dashboard</h3>
           <hr />
           <a href="https://mkimborowicz.github.io/weather-dashboard/" target="blank">View App</a>
           <a href="https://github.com/mkimborowicz/weather-dashboard" target="blank">View Repo</a>
         </div>
         <div class="project-card">
           <img class="image" src={require("../Assets/code-quiz.png")} />
-          <h3>Project 4</h3>
+          <h3>Code Quiz</h3>
           <hr />
           <a href="https://mkimborowicz.github.io/code-quiz/" target="blank">View App</a>
           <a href="https://github.com/mkimborowicz/code-quiz" target="blank">View Repo</a>
         </div>
         <div class="project-card">
           <img class="image" src={require("../Assets/tech-blog.png")} />
-          <h3>Project 5</h3>
+          <h3>Tech Blog</h3>
           <hr />
           <a href="https://mk-tech-blog.herokuapp.com/" target="blank">View App</a>
           <a href="https://github.com/mkimborowicz/tech-blog" target="blank">View Repo</a>
         </div>
         <div class="project-card">
           <img class="image" src={require("../Assets/planner.png")} />
-          <h3>Project 6</h3>
+          <h3>Day Planner</h3>
           <hr />
           <a href="https://mkimborowicz.github.io/seize-the-day-planner/" target="blank">View App</a>
           <a href="https://github.com/mkimborowicz/seize-the-day-planner" target="blank">View Repo</a>
